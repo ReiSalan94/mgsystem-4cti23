@@ -19,3 +19,10 @@ footer{
 	background-color: #ededed;
 }
  
+.login{
+	background: #f4f4f4 ;
+   margin: 0 auto;
+   padding: 20px;
+   text-align: center;
+   margin-top: 100px;
+   }
